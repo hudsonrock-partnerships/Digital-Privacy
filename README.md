@@ -154,6 +154,7 @@ Browser fingerprinting happens when websites use special scripts to collect enou
 
 - [DeHashed](https://dehashed.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 - [pwd query](https://pwdquery.xyz/)
 - [Firefox Monitor](https://monitor.firefox.com/)
 - [Vigilante.pw](https://vigilante.pw/)
